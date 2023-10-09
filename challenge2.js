@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 function checkSpeed(speed){
     // enter vehicle speed
     let speed = prompt("Enter Speed: ");

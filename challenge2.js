@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')();
-function checkSpeed(speed){
+function checkSpeed(){
     // enter vehicle speed
     let speed = prompt("Enter Speed: ");
     // below or equal to 70 = okay (safe)

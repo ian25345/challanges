@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 function calculateGrade(){
     //User enters student marks here
     let marks = prompt("Enter Marks (0-100): ");

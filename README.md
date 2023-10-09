@@ -20,3 +20,6 @@ Clone the repository, and run the program either via computer terminal or via Vi
 
 The code is free to use.
 
+## Author
+
+Ian Kiplagat

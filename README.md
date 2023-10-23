@@ -31,5 +31,5 @@ nvm install node
 
 
 ### Author & License
-iankiplagat77 &  MIT license
+iankiplagat77 &  [MIT license](LICENSE.md)
    

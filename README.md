@@ -1,25 +1,35 @@
-<div>
+# Week 1 Toy Problems
 
-  <h3> Assignment Project: Toy Challenges </h3>
+## Technologies Used
+Below technologies were used;
 
-</div>
+1. Node v12.22.9
+2. Git version 2.42.0
 
-## The Project
 
-Javascript solutions to the toy challenges lab.
 
-## Getting Started
 
-As the code is fully written in JavaScript, one needs npm or node to run the code. The two can be installed through the terminal or one can check the respective websites for guidance.
 
-## Usage
+### Project Setup
+1.You can clone this repository by following this manual as follows;
+```js
+git@github.com:iankiplagat77/codechallenges.git
+```
 
-Clone the repository, and run the program either via computer terminal or via Visual Studio Code terminal
+2.To installthe latest version of Node, run the following:
 
-## License
+```js
+nvm install node
+```
 
-The code is free to use.
+3. Run the application:
+ ```js
+  node challenge1.js
+  node challenge2.js
+  node challenge3.js
+```
 
-## Author
 
-Ian Kiplagat
+### Author & License
+iankiplagat77 &  MIT license
+   
